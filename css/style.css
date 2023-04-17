@@ -102,11 +102,17 @@ h2 {
     background-color: #3cbbed;
     margin-bottom: 10px;
     background-position: center;
+    color: white;
+    font-size: 25px;
+    
 }
 
 #firstEndPic {
+    padding: 10px 0 0 10px;
     background-image: url(../img/monitor.jpg);
 }
 #secondEndPic {
+    padding: 10px 0 0 10px;
     background-image: url(../img/graph.jpg);
 }
+
